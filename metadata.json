@@ -1,0 +1,8 @@
+{
+  "name": "PaisaPilot",
+  "description": "Gen Z financial decision simulator helping users manage a 30-day ₹10,000 budget by previewing interconnected consequences before spending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
